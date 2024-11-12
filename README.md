@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# gifter
-=======
+# Gifter
+
 # Gift Recommendation Application
 
 ## Overview
